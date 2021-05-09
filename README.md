@@ -1,16 +1,12 @@
-### Hi there 👋
+# H2K
 
-<!--
-**H2K-Code/H2K-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What do I do?
+  * Currently developing discord.js bot - Octopus.
+  * Drinking redbull.
+  
+### What do I know?
+  * NodeJS
+  * Lua
+  * C#
+  * HTML
+  * CSS
