@@ -1,5 +1,9 @@
-<h1>
+<h1 align="center">
   Yo, what's poppin? 🍷
+</h1>
+
+<h1 align="center">
+  Statistics! 😎
 </h1>
 
 <p align="center">
