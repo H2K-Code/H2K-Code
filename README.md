@@ -5,7 +5,7 @@ Welcome to my github profile.
 # 🤯 Statistics
 
 <p>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=H2K-Code&theme=dracula&private=true&layout=compact alt=Stats />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=H2K-Code&theme=dracula&layout=compact alt=Stats />
 </p>
 
 <p>
