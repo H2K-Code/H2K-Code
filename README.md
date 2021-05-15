@@ -1,6 +1,6 @@
 # 😴 Hello!
 
-Welcome to my github profile. I'm H2K, currently studing from **Poland** <img src="https://img-premium.flaticon.com/png/512/197/197529.png?token=exp=1621084643~hmac=b675d6458f22866da8ce0a5aa07e7b8c" width="13"/>.
+Welcome to my github profile. <img src="https://img-premium.flaticon.com/png/512/197/197529.png?token=exp=1621084643~hmac=b675d6458f22866da8ce0a5aa07e7b8c" width="13"/>.
 
 # 🤯 Statistics
 
