@@ -9,5 +9,5 @@ Welcome to my github profile.
 </p>
 
 <p>
-  <img src=https://github-readme-stats.vercel.app/api?username=H2K-Code&theme=dracula&custom_title=My%20Stats alt=Languages />
+  <img src=https://github-readme-stats.vercel.app/api?username=H2K-Code&theme=dracula&custom_title=My%20Stats&private=true alt=Languages />
 </p>
